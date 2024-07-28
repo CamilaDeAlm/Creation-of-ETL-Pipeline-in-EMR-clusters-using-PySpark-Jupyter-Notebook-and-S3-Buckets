@@ -11,7 +11,7 @@ ficam disponíveis para análise.
 
 <div align="center">
 
- <img src="https://github.com/CamilaDeAlm/Creation-of-ETL-Pipeline-in-EMR-clusters-using-PySpark-Jupyter-Notebook-and-S3-Buckets/blob/main/Captura%20de%20tela%202024-07-28%20145118.png" alt="Exemplo" width="largura" height="altura">
+ <img src="https://github.com/CamilaDeAlm/Creation-of-ETL-Pipeline-in-EMR-clusters-using-PySpark-Jupyter-Notebook-and-S3-Buckets/blob/main/folder/Captura%20de%20tela%202024-07-28%20145118.png" alt="Exemplo" width="largura" height="altura">
 
 </div>
 
